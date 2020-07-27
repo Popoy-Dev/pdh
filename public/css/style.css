@@ -1,0 +1,221 @@
+@font-face {
+  font-family: 'Futura';
+  src: url(futur.ttf);
+}
+html, body {
+  background-color: #fff;
+  color: #636b6f;
+  font-family: 'Futura', sans-serif;
+  font-weight: 200;
+  height: 100vh;
+  margin: 0;
+}
+
+.log-btn{
+  font-size: 30px;
+}
+
+.app-style{
+  font-family: Futura;
+  font-style: normal;
+  font-size: 13px;
+}
+.input{
+  background: #F3F3F3;
+  border: 1px solid #DCDCDC !important;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+.form-control {
+  margin-top: 0px;
+}
+.btn-step{
+  background: #8EBE57;
+  border-radius: 100px;
+  color:#fff;
+}
+.btn-step:hover{
+  color:#fff;
+}
+.font{
+  font-weight: 500;
+  font-size: 18px;
+  text-decoration-line: underline;
+  color: #8EBE57;
+}
+.email{
+  font-family: Futura;
+  font-style: normal;
+  font-size: 25px;
+  line-height: 46px;
+  text-align: justify;
+
+  color: #000000;
+}
+.e-desc{
+  font-family: Futura Bk BT;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+.custom{
+  font-family: Futura;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 27px;
+  color: #3A3C42 !important;
+  padding-left: 54px !important;
+}
+.nav-center{
+  padding-top: 25px;
+  padding-left: 450px;
+}
+.custom_btn{
+  width: 145px;
+  height: 45px;
+  left: 1011px;
+  top: 79px;
+  text-align: center;
+  background: rgba(124, 192, 169, 0.17);
+  border-radius: 50px;
+  margin-left: 54px !important;
+
+}
+.header{
+  padding-top: 50px;
+  font-family: Futura;
+  font-size: 48px;
+  line-height: 68px;
+  text-align: center;
+
+  color: #8EBE57;
+}
+.header_btn{
+  background: #526BAD;
+  border-radius: 100px;
+  width: 312px;
+  height: 71px;
+  left: 613px;
+  top: 427px;
+  color: white;
+}
+.image-h{
+  margin-top: -80px;
+}
+.features{
+  padding-top: 80px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 46px;
+  color: #222222
+}
+.p_features{
+  color: #686868;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 33px;
+  font-style: normal;
+  margin-top: 40px;
+}
+.img-left1{
+  margin-left: 50px
+}
+.img-left2{
+  margin-left: 100px
+}
+.align{
+  padding-top: 290px;
+  padding-right: 200px;
+}
+.btn_start{
+  padding: 10px 20px 10px 20px;
+  border-color: white;
+  color: white;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: justify;
+  background: #6FD1B6;
+  border-radius: 100px;
+}
+.start_align{
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(20%, -300%) !important;
+  -ms-transform: translate(-50%, -50%) !important;
+}
+.footer{
+  background-color: #526bad;
+}
+.footer-para{
+  font-size: 22px;
+  line-height: 26px;
+  color: #FFFFFF;
+  padding-bottom: 20px;
+}
+.footer-header{
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 26px;
+  color: #FFFFFF;
+  padding-bottom: 20px;
+}
+/* sign up */
+.sign{
+  color: #000000;
+  font-weight: 550;
+  font-size: 16px;
+  padding-top: 16px;
+}
+.login_img{
+  background-image: url('Group 117.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.caro-padd{
+  width: 100% !important;
+}
+.welcome{
+  font-family: Futura;
+  font-size: 45px;
+  line-height: 53px;
+  text-align: center;
+
+  color: #494949;
+}
+.login-input{
+  border-top: 0 solid rgba(0, 0, 0, 0.37);
+  border-left: 0 solid rgba(0, 0, 0, 0.37);
+  border-right: 0 solid rgba(0, 0, 0, 0.37);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.37);
+}
+.login-input::placeholder{
+  width: 129px;
+  font-family: Futura;
+  font-style: normal;
+  margin-bottom:5px;
+  font-size: 18px;
+  color: #A6A6A6;
+}
+.btn-login{
+  width: 241px;
+height: 58px;
+  background: #8EBE57;
+box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.04), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 10px 20px rgba(0, 0, 0, 0.04);
+border-radius: 50px;
+color:#fff;
+}
+.btn-login:hover{
+  color:#fff;
+}
+.caro-padd{
+  width: 80% !important;
+}

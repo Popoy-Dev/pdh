@@ -1,0 +1,15 @@
+.nav-style-link{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+
+  color: #3A3C42;
+}
+.get-started{
+  padding:10px;
+  color:#228DD5;
+  font-weight: bold !important;
+  background: rgba(126, 200, 236, 0.34);
+  border-radius: 50px
+}

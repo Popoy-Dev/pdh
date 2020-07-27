@@ -1,0 +1,265 @@
+html, body {width: auto!important; overflow-x: hidden!important}
+.navbar-light .navbar-toggler{
+  z-index: 999;
+}
+img {
+  max-width: 100%;
+}
+.font-p{
+  font-size: 18px !important;
+}
+.img-head{
+  margin-top:-120px
+}
+.btn-who{
+  background: #0E269D !important;
+border-radius: 40px !important;
+padding-left: 30px !important;
+padding-right: 30px !important;
+margin-top: 40px !important;
+color: white !important;
+font-size: 25px !important;
+}
+.text-who{
+  font-size: 25px;
+  color: #000;
+  line-height: 34px;
+  font-style: normal;
+  text-align: justify;
+  left: 818px;
+
+}
+.img-who{
+  width:432px !important;
+  height:432px !important;
+}
+.pad-who{
+  padding-left: 100px !important;
+}
+.font-20{
+  font-size: 20px !important;
+}
+.pad-btn{
+  margin-top: -350px !important;
+}
+.pad-btn1{
+  margin-top: 300px !important;
+}
+
+.btn-start{
+  background-color: #606ba2 !important;
+}
+.flex-wrap{
+  z-index: 100;
+}
+.object-center{
+  z-index: 100;
+}
+.align-start{
+   float: right !important;
+}
+.btn-get{
+  font-size: 22px;
+  color: white !important;
+  font-weight: bold;
+  background-color: #606ba2;
+  border-radius: 24px;
+  padding: 10px 28px;
+  z-index: 1000;
+
+  /* margin-left: 700px !important; */
+}
+.btn-get1{
+  font-size: 24px;
+  color: white !important;
+  font-weight: bold;
+  background-color: #0E269D;
+  border-radius: 24px;
+  padding: 12px;
+  margin-left: 700px !important;
+}
+.nav-float{
+  text-align: left !important
+}
+.footer{
+  background-color: #01156B;
+}
+.footer1{
+  background-color: #08CDFF;
+}
+.foot1-p{
+  font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 34px;
+
+text-align: justify;
+
+color: #F8F8FC;
+
+}
+.footer-header {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+}
+.footer-para {
+    font-size: 22px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+}
+.foot-image{
+  width:223px;
+  height:223px;
+}
+.cus-pad{
+  padding-left: 70px !important;
+  padding-right: 70px !important;
+  background-color: red;
+  border-color: red;
+}
+.nav-cust{
+  padding-top: 25px;
+}
+.nav-btn{
+  margin-top: 25px;
+  border-radius: 24px !important;
+  color: white;
+  background: rgba(255, 255, 255, 0.37);
+  border-color: none !important;
+}
+.nav-a{
+  color: white !important;
+}
+.navbar-nav>li>a {
+  color: #03146C !important;
+  font-weight: bold;
+  font-size: 24px;
+}
+.btn-primary {
+  background-color: #0E269D !important;
+  border-radius: 24px !important;
+}.head-text{
+  color: #0E269D;
+  font-weight: bold;
+  font-size: 30px;
+}
+.text-custom{
+  color: #0E269D;
+  font-weight: bold;
+  font-size: 30px;
+}
+.text-custom-about{
+  color: #0E269D;
+  font-weight: bold;
+  font-size: 40px;
+}
+.s{
+  /* margin-left: 2.2rem!important; */
+}
+.enroll-btn{
+  background: #102BB5 !important;
+border-radius: 30px !important;
+color: white;
+/* margin-right: 100px; */
+
+padding: 8px 20px;
+
+
+}
+.enroll-btn a {
+  font-size: 30px;
+color: white;
+font-weight: 500;
+}
+.ml-nav{
+  /* margin-left: 5.5rem !important; */
+}
+.login-btn{
+  background: #08CDFF !important;
+border-radius: 30px !important;
+color: white;
+padding: 8px 70px;
+
+}
+.login-btn a {
+font-size: 30px;
+color: white;
+font-weight: 500;
+}
+.btn-adjust{
+  margin-top: -240px;
+      padding-left: 145px !important;
+}
+.p_who{
+  text-align: justify;
+  color: #373759;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 34px;
+}
+.text-touch{
+  color: #373759;
+}
+.label-form{
+  color: #000000;
+  font-weight: 600;
+font-size: 14px;
+}
+.form-message{
+  border: 0px !important
+}
+
+.btn-csearch{
+  color: #0E269D !important;
+  background-color: white;
+}
+.form-search{
+  color:#ACACAC !important;
+  margin-left: 200px;
+  border-radius: 10px !important;
+}
+.input-search{
+  width: 80% !important;
+}
+.p-link{
+  font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+text-align: ;
+
+color: #707070;
+}
+.p-des{
+  font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+
+color: #0E269D;
+}
+.p-para{
+  font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+color: #393939;
+}
+.link-res{
+  padding-left: 1.5rem !important;
+}
+.head-p{
+line-height: 30px;
+text-align: left !important;
+color: #737373;
+font-size:19px;
+/* margin-right: 7rem !important; */
+}
+.header-pad{
+  padding-top: 150px;
+  /* padding-left: 200px; */
+}

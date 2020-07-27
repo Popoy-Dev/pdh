@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+body{
+  font-family: 'Nunito', sans-serif;
+  /* background:url(/asset/landing/bg-login.png) no-repeat center center; */
+  background-size:cover;
+  /* background-color: #E5E5E5; */
+}
+.main-wrapper .page-wrapper{
+  background: transparent !important;
+}
+.app-card{
+  max-width: 900px;
+  max-height: 1080px;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.04),
+  0px 2px 6px rgba(0, 0, 0, 0.04),
+  0px 10px 20px rgba(0, 0, 0, 0.04);
+  border-radius: 36px;
+}
+
+.success-msg{
+  font-family:Nunito;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 34px;
+  text-align: center;
+
+  color: #000000
+}
+.bg-payment-login{
+  width: 205px;
+  height: 49px;
+
+  background: #228DD5;
+  border-radius: 10px;
+}
+.bg-payment-login:hover{
+  color:#fff;
+}
+.text-payment-login{
+  font-family: Nunito !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  color: #FFFFFF;
+
+}
+#exampleInputEmail1, #exampleInputPassword1{
+  border-top: 0 solid rgba(0, 0, 0, 0.37);
+  border-left: 0 solid rgba(0, 0, 0, 0.37);
+  border-right: 0 solid rgba(0, 0, 0, 0.37);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.37);
+  width: 80%;
+}
+.text-signup{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #0D81BB !important;
+}
+.btn-scuola-primary{
+  width: 182px;
+  background: #228DD5 !important;
+  border-radius: 10px !important;
+  color:#fff !important;
+}
+.nav.nav-tabs .nav-item .nav-link.active {
+  color:#fff !important;
+  background: #228DD5 !important;
+  border-bottom: 3px solid #025077 !important;
+}
+.nav-tabs{
+  border:0 !important;
+}
+h2.form-header {
+  position: absolute;
+  color: #0E269D;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 38px;
+  margin-top: 10px;
+  padding-bottom: 50px;
+}

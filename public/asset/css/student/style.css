@@ -1,0 +1,709 @@
+.nav-style{
+  font-family: Nunito !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+}
+.nav-text{
+  font-size: 14px !important;
+  color: #08C4FF !important;
+}
+.ava{
+  background: #E5E5E5;
+  border: 3px solid #228DD5;
+  cursor: pointer;
+}
+.ava-welcome{
+  font-size: 30px;
+  line-height: 41px;
+  color: #228DD5;
+}
+.ava-body{
+  font-size: 22px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+.ava-confirm{
+  width: 147px;
+  background: #228DD5;
+  border-radius: 10px !important;
+  color:#fff !important;
+}
+.ava-check{
+  position:absolute;
+  left:55px !important;
+  margin-top:5px;
+}
+.avatar{
+  opacity:.3;
+}
+.table td img{
+  max-width: 100% !important;
+  width: 165px !important;
+  height: auto !important;
+  border-radius: 0px !important;
+}
+
+.nav-active{
+  /* opacity: 1 !important; */
+  color:  #08C4FF !important;
+  background-color: rgba(8, 205, 255, 0.1);
+  border: none;
+  border-left-color: #fff;
+  width: 100%;
+  border-radius: 16px;
+ 
+}
+.icon{
+  color:#08C4FF !important;
+}
+.text-dashboard{
+  font-size: 20px;
+  line-height: 27px;
+  color: #08CDFF
+}
+.btn-tour{
+  color:#fff;
+  width: 67px;
+  margin-left: 80px;
+  height: 24px;
+  background: #FFBE55;
+  border-radius: 10px;
+  color:#fff !important;
+}
+.btn-tour:hover{
+  color:#fff;
+}
+.th-font{
+  font-size: 16px !important;
+  padding-left: 25px !important;
+  line-height: 27px !important;
+  color: #000000 !important;
+  font-family: Nunito !important;
+}
+.th-font-2{
+  font-size: 16px !important;
+  padding-left: 15px !important;
+  line-height: 27px !important;
+  color: #000000 !important;
+  font-family: Nunito !important;
+}
+.td-font{
+  font-size:14px   !important;
+  line-height:22px !important;
+  color: #000000 !important;
+}
+.assess{
+  font-size: 20px;
+  line-height: 27px;
+  color: #000000;
+}
+.assess-learning{
+  font-size: 18px;
+  line-height: 25px;
+  color: #000000;
+}
+.start-learning{
+  font-size: 18px;
+  line-height: 25px;
+
+  color: #33A3EF;
+
+}
+.task-text{
+  font-size: 12px !important;
+  line-height: 22px !important;
+
+  color: #000000;
+}
+.introjs-helperLayer {
+  background: transparent !important;
+}
+.introjs-helperNumberLayer{
+  left:5px !important;
+}
+.th-sub{
+  font-size: 14px !important;
+  line-height: 27px;
+  color: #228DD5 !important;
+}
+.btn-subj{
+  background: #228DD5;
+  border-radius: 5px;
+  color:#fff;
+}
+.btn-subj:hover{
+  color:#fff !important;
+}
+.btn-start-learning{
+  background: #33A3EF;
+  border-radius: 15px;
+  font-size:18px;
+  color:#fff;
+}
+.btn-start-learning:hover{
+  color:#fff !important;
+}
+ul li.list-group-item{
+  position:relative;
+  padding:0 !important;
+  border:0 !important;
+  font-size:12px;
+  line-height: 27px;
+  color: #3A3C42;
+}
+ul li.list-group-item:before {
+  content: "• ";
+  font-size:20px;
+}
+.btn-search{
+  width: 98px;
+  background: #228DD5;
+  border-radius: 5px;
+  color:#fff;
+}
+.btn-search:hover{
+  color:#fff !important;
+}
+.btn-forum{
+  width: 180px;
+  height:30px;
+  background: #228DD5;
+  border-radius: 5px;
+  color:#fff;
+}
+.btn-forum:hover{
+  color:#fff !important;
+}
+.f-title{
+  font-size: 18px;
+  line-height: 25px;
+  color: #3A3C42;
+}
+.f-body{
+  font-size: 14px;
+  line-height: 19px;
+  color: #3A3C42;
+}
+.f-date{
+  font-size: 8px;
+  line-height: 11px;
+  color: #A7A7A7;
+}
+.f-guidelines{
+  font-size: 20px;
+  line-height: 41px;
+  color: #000000;
+}
+.order-item{
+  position:relative;
+  padding:.75rem 1.25rem;
+}
+.f-welcome{
+  font-size: 30px;
+  line-height: 41px;
+  color: #3A3C42;
+}
+.f-desc{
+  font-size:18px;
+  line-height: 25px;
+  color: #3A3C42;
+  opacity: 0.8;
+}
+.i-discussion{
+  background: #F3F3F3;
+  border-radius: 10px !important;
+}
+.pay-tution{
+  background: #08CDFF;
+  border-radius: 10px;
+  color:#fff;
+}
+.pay-tution:hover{
+  color:#fff;
+}
+.sub-title{
+  font-size: 25px;
+  line-height: 34px;
+  color: #000000;
+}
+.sub-desc{
+  font-size: 15px;
+  line-height: 20px;
+  color: #000000;
+}
+.input-payment{
+  background: #F5F5F5 !important;
+  border: 1px solid #C8C4C4 ;
+  box-sizing: border-box !important;
+  border-radius: 5px !important;
+}
+.bg-pisopay{
+  background: #F2F2F2 !important;
+  border-radius: 7px !important;
+  width: 147px !important;
+  height: 57px;
+  color: #000000;
+}
+.bg-otc{
+  background: #F2F2F2 !important;
+  border-radius: 7px !important;
+  width: 147px !important;
+  height: 57px;
+  color: #000000;
+}
+.pricing{
+  background: rgba(62, 162, 229, 0.07);
+  border: 1.5px solid #33A3EF;
+  box-sizing: border-box;
+  border-radius: 12px;
+}
+.p-footer{
+  background: #3EA2E5 !important;
+  border-radius: 0px 0px 12px 12px !important;
+  color:#F5F5F5;
+  padding: .5rem 1rem !important;
+}
+.bg-blue{
+  border: 1.5px solid #33A3EF !important;
+}
+.subj-container{
+  border: 2px solid #EFEFEF;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+.subj-title{
+  font-size: 15px;
+  line-height: 20px;
+  color: #3A3C42;
+}
+.subj-author{
+  font-size: 12px;
+  line-height: 16px;
+  color: #255A7C;
+}
+.active-Students{
+  font-size: 8px !important;
+  line-height: 11px !important;
+
+  color: #474646 !important;
+}
+.input-subject{
+  background: #EBEBEB;
+  border-radius: 10px;
+}
+.dropify-wrapper{
+  background: #F2F2F2 !important;
+  border: 1px dashed #BDB7B7 !important;
+  box-sizing: border-box !important;
+  border-radius: 11px !important;
+}
+span.file-icon{
+  color:#474646 !important;
+}
+.dropify-wrapper .dropify-message
+span.file-icon:before{
+  font-size:50px !important;
+}
+.publish {
+  height: 35px;
+  background: #6AC04C;
+  border-radius: 10px;
+  color:#fff !important;
+}
+.instructional {
+  height: 35px;
+  background: #F08867;
+  border-radius: 10px;
+  color:#fff !important;
+}
+.publish:hover{
+  color:#fff !important;
+}
+.btn-add{
+  background: #5CBEFF;
+  border-radius: 4px;
+  color:#fff !important;
+}
+.btn-edit{
+  background: #228DD5;
+  border-radius: 4px;
+  color:#fff !important;
+}
+.btn-del{
+  background: #ED5B5B;
+  border-radius: 4px;
+  color:#fff !important;
+}
+.mb-0 > a {
+  display: block;
+  position: relative;
+}
+.mb-0 > a:after {
+  font-family:"Material Design Icons";
+  content: '\F09D6'!important;
+  position: absolute;
+  right: 0;
+  color:#9B9999 !important;
+}
+.mb-0 > a[aria-expanded="true"]:after {
+  content: "\F0143" !important;
+  color:#9B9999 !important;
+}
+.bg-card{
+  background: rgba(196, 196, 196, 0.25) !important;
+}
+.no-data-found{
+  background: rgba(62, 162, 229, 0.15);
+  border-radius: 10px;
+  font-size: 20px;
+  line-height: 27px;
+
+  color: #228DD5;
+}
+.btn-cancel{
+  background: #FFFFFF;
+  border-radius: 10px;
+  width:165px;
+}
+.btn-go{
+  background: #3EA2E5;
+  border-radius: 10px;
+  color:#fff;
+}
+.btn-go:hover{
+  color:#fff;
+
+}
+.lesson{
+  background: #F2F2F2;
+border-radius: 10px;
+}
+.question-tabs{
+  border:0 !important;
+}
+.nav.nav-tabs.nav-tabs-line .nav-link.active{
+  border-bottom: 2px solid #228DD5 !important;
+  color:#228DD5!important;
+  font-size:18px;
+}
+
+.list-group-item.active{
+  background-color: #228DD5 !important;
+}
+
+.perfect-scrollbar-example {
+	position: relative;
+	max-height: 250px;
+}
+
+/* list styles */
+
+.lesson-list {
+  list-style: none !important;
+  color: #ccc;
+}
+
+.lesson-list-item{
+  font: bold 18pt helvetica, arial, sans-serif;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.lesson-list-item p {
+  color: #555;
+  padding-left:30px;
+}
+ p.active-list{
+  color:#228DD5!important;
+}
+.btn-skip {
+  color: #999;
+  position: absolute;
+  line-height: 42px;
+
+
+}
+.btn-startCourse {
+  padding: 8px;
+  width: 120px;
+  border-radius: 20px;
+  color: #fff;
+  background-color: #08C4FF;
+}
+.sidenavNew {
+  height: auto;
+  width: 250px;
+  position: absolute;
+
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #fff;
+  overflow: scroll;
+  padding-top: 60px;
+  padding-bottom: 50px;
+  overflow: hidden;
+  transition: width .5s;
+}
+.dash-circle-1 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  background-color: #0E269D ;
+  border-radius: 50%;
+  margin-right: -100px;
+  margin-top: -50px;
+  top: 0;
+  right: 0;
+  
+}
+.dash-circle-2 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background-color: #08C4FF ;
+  border-radius: 50%;
+  margin-right: -2px;
+  margin-top: -10px;
+  top: 0;
+  right: 0;
+}
+.dash-circle-3 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background-color: #FFC464;
+  border-radius: 50%;
+  margin-right: 20px;
+  margin-top: 75px;
+  top: 0;
+  right: 0;
+}
+.btn-viewAll {
+  padding: 8px;
+  width: 100px;
+  border-radius: 20px;
+  color: #08CDFF !important;
+  background-color: rgba(8, 205, 255, 0.1);
+}
+.btn-tourAround {
+  color: #fff;
+  height: 32px;
+  margin-top: 12px;
+  margin-right: 70px;
+  background-color: #08C4FF;
+  padding: 2px;
+  width: 180px;
+  border-radius: 20px;
+}
+.td-score {
+  padding-top: 15px;
+  text-align: center;
+}
+.dot-score {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #08CDFF;
+}
+.btn-viewCourse {
+  width: 60px; 
+  font-size: 8px;
+  padding: 4px;
+  border-radius: 20px;
+  margin-right: 5px;;
+  color: #08C4FF !important;
+  background-color: rgba(8, 205, 255, 0.1);
+}
+.btn-addTocart {
+  width: 60px; 
+  font-size: 8px;
+  padding: 4px;
+  border-radius: 20px;
+  color: #fff;
+  background-color: #08C4FF !important;
+}
+.btn-container {
+  display: flex;
+  width: auto;
+justify-content: center;
+  margin-top: -32px;
+}
+.desc-about {
+  margin-left: 40px;
+  margin-right: 40px;
+  font-family: Nunito;
+}
+.desc-about h1{
+  color: #111 !important;
+
+}
+.desc-about h3 {
+  color: #A7A4A4;
+  font-size: 18px;
+  margin-top: -15px;
+  margin-bottom: 50px;
+  
+}
+ .desc-about h2  {
+  font-size: 20px;
+  font-family: Nunito;
+}
+.desc-about p {
+  text-align: justify;
+}
+.btn-AddcartCourse {
+  background-color: #08C4FF;
+  color: #fff;
+  border-radius: 20px;
+  width: 100%;
+  font-size: 16px;
+  padding: 10px;
+  font-family: Nunito;
+}
+.btn-courseNav {
+  background-color: #F5F5F5;
+  color:  #818181;
+  font-size: 12px;
+  text-align: left;
+}
+.c-nav-title  {
+  font-size: 20px;
+  font-family: Nunito;
+}
+.cost p {
+  font-size: 12px;
+}
+.nav-jav {
+  padding-left: 30px !important;
+}
+.forum-header {
+  font-family: Nunito;
+  z-index: 1;
+}
+.forum-header h1{
+  margin-left: 120px;
+  margin-top: 100px;
+  color: #fff;
+  font-size: 50px;
+  font-weight: bolder;
+}
+.forum-header p{
+  margin-left: 120px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: -0px;
+}
+.btn-startDiscuss {
+  background: #08CDFF;
+  border-radius: 30px;
+  font-weight: 600;
+  font-size: 16px;
+  font-family: Nunito;
+  font-style: normal;
+  color: #FFFFFF;
+  margin-left: 120px;
+}
+.btn-readGuide {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.btn-hdpAdmin {
+  background: #08CDFF;
+  border-radius: 30px;
+  color: #fff;
+  margin-left: 80px !important;
+}
+.btn-hdpAdminNew {
+  background: #08CDFF;
+  border-radius: 30px;
+  color: #fff;
+  width: 200px;
+  font-size: 25px;
+}
+
+.img-forum {
+  background: #C4C4C4;
+  padding: 6px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.forum-title {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #3A3C42;
+}
+.forum-para {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+
+  color: #3A3C42;
+}
+.forum-date {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  color: #A7A7A7;
+} 
+.comment-content {
+  display: flex;
+  justify-content: center;
+}
+.share-content {
+  display: flex;
+}
+
+.btn-conCourse {
+  background: #9FCE6A;
+  border-radius: 20px;  
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 8px;
+  /* or 8px */
+  text-align: center;
+  padding: 4px;
+  color: #FFFFFF;
+  width: 70px;
+  margin-left: 35px;
+}
+
+.btn-sLearning {
+  background: #08C4FF;
+  border-radius: 20px;  
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 8px;
+  /* or 8px */
+  text-align: center;
+  padding: 4px;
+  color: #FFFFFF;
+  width: 70px;
+  margin-left: 35px;
+}
+
+@media only screen and (max-width: 999px) {
+  .sidenavNew {
+    display: none;
+  }
+}
+@media only screen and (max-width: 768px) {
+
+  .sidenavNew {
+    display: none;
+  }
+}
